@@ -8,16 +8,18 @@ Chansoo Kim
 5.30.2020
 
 ### Contents
-- combine_text.py
-    - This script combines all collected sentences into one single line with start and end tokens.
-    - This will have you save a text file with a long line that is combined with start tokens and end tokens
-- run_word2vec.py
-    - This script trains word embeddings
-    - This will have you save two 'tsv' files, so that you can visualize vectors.
-- sample.txt
-    -  This file has example sentences to train
-- combined.txt
-    - All sentences  are combined with start tokens and end tokens
+- README.md
+- word2vec
+    - combine_text.py
+        - This script combines all collected sentences into one single line with start and end tokens.
+        - This will have you save a text file with a long line that is combined with start tokens and end tokens
+    - run_word2vec.py
+        - This script trains word embeddings
+        - This will have you save two 'tsv' files, so that you can visualize vectors.
+    - sample.txt
+        -  This file has example sentences to train
+    - combined.txt
+        - All sentences  are combined with start tokens and end tokens
 
 ### Procedure
 
