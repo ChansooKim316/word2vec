@@ -21,10 +21,10 @@ Chansoo Kim
 
 ### Procedure
 
- 1. Collect sentence on an txt file, and place only one sentence in each line
- 2. Run 'combine_text.py'
+ 1. Collect sentences on an txt file, and place only one sentence in each line
+ 2. Run 'combine_text.py' (You'll select the text file you wrote)
  3. Run 'run_word2vec.py' (This will have you save two tsv files)
- 4. Hit the URL on the script 'run_word2vec.py'  
+ 4. Copy URL on the script 'run_word2vec.py', and enter the webpage  
  5. Hit the 'Load' button and upload two tsv files
 
 ### Environment
