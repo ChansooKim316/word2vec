@@ -21,7 +21,7 @@ Chansoo Kim
 
 ### Procedure
 
- 1. Collect sentence and place only one sentence in each line
+ 1. Collect sentence on an txt file, and place only one sentence in each line
  2. Run 'combine_text.py'
  3. Run 'run_word2vec.py' (This will have you save two tsv files)
  4. Hit the URL on the script 'run_word2vec.py'  
