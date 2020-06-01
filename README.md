@@ -31,4 +31,4 @@ Chansoo Kim
 - Mac OSX Catalina 10.15.4
 - Python v.3.7
 - Tensorflow v.2.2.0
-# word2vec
+
