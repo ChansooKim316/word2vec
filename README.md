@@ -2,6 +2,7 @@
 
 This project trains word embedding based on word2vec algorithm and Skip-gram model.
 
+![](images/
 
 ### Developer
 
