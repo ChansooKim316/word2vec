@@ -2,7 +2,6 @@
 
 This project trains word embedding based on word2vec algorithm and Skip-gram model.
 
-![w2v_visualization](/Users/chansoo/Documents/Python_workspace/github_repo/word_to_vector/w2v_visualization.png)
 
 ### Developer
 
@@ -23,11 +22,11 @@ Chansoo Kim
 
 ### Procedure
 
- 	1. Collect sentence and place only one sentence in each line
- 	2. Run 'combine_text.py'
- 	3. Run 'run_word2vec.py' (This will have you save two tsv files)
- 	4. Hit the URL on the script 'run_word2vec.py'  
- 	5. Hit the 'Load' button and upload two tsv files
+ 1. Collect sentence and place only one sentence in each line
+ 2. Run 'combine_text.py'
+ 3. Run 'run_word2vec.py' (This will have you save two tsv files)
+ 4. Hit the URL on the script 'run_word2vec.py'  
+ 5. Hit the 'Load' button and upload two tsv files
 
 ### Environment
 - Mac OSX Catalina 10.15.4
