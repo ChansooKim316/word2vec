@@ -26,10 +26,10 @@ Chansoo Kim
 ### Procedure
 
  1. Collect sentence and place only one sentence in each line
- 2. Run 'combine_text.py'
- 3. Run 'run_word2vec.py' (This will have you save two tsv files)
- 4. Hit the URL on the script 'run_word2vec.py'  
- 5. Hit the 'Load' button and upload two tsv files
+ 2. Run `combine_text.py`
+ 3. Run `run_word2vec.py` (This will have you save two tsv files)
+ 4. Click the URL on the script 'run_word2vec.py'  
+ 5. Click the 'Load' button and upload two tsv files
 
 ### Environment
 - Mac OSX Catalina 10.15.4
