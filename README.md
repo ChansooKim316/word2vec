@@ -23,7 +23,7 @@ Chansoo Kim
 - combined.txt
     - All sentences  are combined with start tokens and end tokens
 
-### Procedure
+### Usage
 
  1. Collect sentence and place only one sentence in each line
  2. Run `combine_text.py`
