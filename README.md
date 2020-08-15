@@ -12,6 +12,7 @@ Chansoo Kim
 5.30.20
 
 ### Contents
+
 - combine_text.py
     - This script combines all collected sentences into one single line with start and end tokens.
     - This will have you save a text file with a long line that is combined with start tokens and end tokens
@@ -25,13 +26,15 @@ Chansoo Kim
 
 ### Usage
 
- 1. Collect sentence and place only one sentence in each line
+ 1. Collect sentences and place only one sentence in each line in the text file, and put it in the wor2vec folder
  2. Run `combine_text.py`
  3. Run `run_word2vec.py` (This will have you save two tsv files)
  4. Click the URL on the script 'run_word2vec.py'  
- 5. Click the 'Load' button and upload two tsv files
-
+ 5. Click 'Load' on the website and upload two tsv files
+ 6. The module will visualize the words
+ 
 ### Environment
+
 - Mac OSX Catalina 10.15.4
 - Python v.3.7
 - Tensorflow v.2.2.0
