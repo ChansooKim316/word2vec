@@ -29,7 +29,7 @@ Chansoo Kim
  1. Collect sentences and place only one sentence in each line in the text file, and put it in the wor2vec folder
  2. Run `combine_text.py`
  3. Run `run_word2vec.py` (This will generate two tsv files in word2vec directory)
- 4. Click the URL at the bottom of 'run_word2vec.py' file  
+ 4. Visit [http://projector.tensorflow.org/](http://projector.tensorflow.org/) to run the visualizer online
  5. Click 'Load' on the website and upload two tsv files (first : vecs.tsv , second : meta.tsv)
  6. The module will visualize the words
  
