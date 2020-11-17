@@ -27,7 +27,7 @@ Chansoo Kim
 ### Usage
 
  1. Collect sentences and place only one sentence in each line in the text file, and put it in the wor2vec folder
- 2. Run `combine_text.py`
+ 2. Run `combine_text.py` (please follow the instructions on the script)
  3. Run `run_word2vec.py` (This will generate two tsv files in word2vec directory)
  4. Visit [http://projector.tensorflow.org/](http://projector.tensorflow.org/) to run the visualizer online
  5. Click 'Load' on the website and upload two tsv files (first : vecs.tsv , second : meta.tsv)
