@@ -23,7 +23,7 @@ import matplotlib.pyplot as plt
 
 # Setting parameter values.
 
-input_text = "example_combined.txt" # Choosing text to load.
+input_text = "text_with_tokens.txt" # Choosing text to load.
 word_range = 5 # Declaring the total number of words for input and output,
                # and it should be odd number and bigger than 3.
 hidden_units = 1024 # Number of units in each hidden layer
