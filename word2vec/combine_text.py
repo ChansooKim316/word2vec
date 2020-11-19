@@ -17,9 +17,9 @@ if len(sys.argv) != 3:
     print("1. Input file.")
     print("2. Save file.")
     print("*** USAGE ***")
-    print("Ex : python combine_text.py (FILE TO READ).txt text_with_tokens.txt") # For terminal on Mac or Windows
+    print("For Mac(terminal) or Windows : python3 combine_text.py (FILE TO READ).txt (FILE TO SAVE).txt") # For terminal on Mac or Windows
     print("             -------------  OR ------------- ")
-    print("Ex : python combine_text.py $(FILE TO READ).txt text_with_tokens.txt") # on Linux
+    print("For Linux : python combine_text.py $(FILE TO READ).txt $(FILE TO SAVE).txt") # on Linux
     exit()
 
 # Corpus data directory
