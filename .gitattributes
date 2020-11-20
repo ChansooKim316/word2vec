@@ -1,0 +1,1 @@
+vecs_kor4000.tsv filter=lfs diff=lfs merge=lfs -text
