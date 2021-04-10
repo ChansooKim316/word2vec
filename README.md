@@ -9,7 +9,7 @@ This project trains word embedding based on word2vec algorithm and Skip-gram mod
 ### Developer
 
 Chansoo Kim
-5.30.20
+5.30.2020
 
 ### Contents
 
