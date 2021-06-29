@@ -6,11 +6,6 @@ This project trains word embedding based on word2vec algorithm and Skip-gram mod
 ![](images/word2vec.gif)
 
 
-### Developer
-
-Chansoo Kim
-2020.5.30
-
 ### Contents
 
 - combine_text.py
