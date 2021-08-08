@@ -13,7 +13,7 @@ This project trains word embedding based on word2vec algorithm and Skip-gram mod
     - This will have you save a text file with a long line that is combined with start tokens and end tokens
 - run_word2vec.py
     - This script trains word embeddings
-    - This will have you save two 'tsv' files, so that you can visualize vectors.
+    - This will have you save two '.tsv' files, so that you can visualize vectors.
 - sample.txt
     -  This file has example sentences to train
 - combined.txt
