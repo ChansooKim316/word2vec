@@ -3,8 +3,6 @@
 # This script combines all collected sentences into one single line with start and end tokens.
   (example : [S] I'm heading to Starbucks [E] [S] Do you want some coffee? [E] [S] I'm good, thank you [E] )
 
-5.30.2020
-Chansoo Kim
 
 '''
 
