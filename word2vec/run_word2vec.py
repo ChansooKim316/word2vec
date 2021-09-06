@@ -10,8 +10,6 @@
   you'll save 2 tsv files(word embedding matrix) to upload,
   and you can visualize vectors on the word2vec module online.
 
-5.30.2020
-Chansoo Kim
 
 '''
 
